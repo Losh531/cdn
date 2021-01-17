@@ -1,0 +1,1 @@
+console.log("Ziglet version: 6.6.9")
